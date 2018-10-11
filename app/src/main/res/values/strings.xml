@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyUserContacts</string>
+    <string name="buttonContacts">Get Contacts</string>
+</resources>
